@@ -1,4 +1,4 @@
-package Task2;
+package Week2;
 
 public class SwapTwoNum {
 

@@ -1,6 +1,4 @@
-package Task2;
-
-import Task1.DivideTwoNumbers;
+package Week2;
 
 public class DivisibleBy {
         public static void main(String[] args) {

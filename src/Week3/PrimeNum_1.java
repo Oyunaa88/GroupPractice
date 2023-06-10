@@ -1,4 +1,4 @@
-package Task3;
+package Week3;
 
 public class PrimeNum_1 {
     /*
